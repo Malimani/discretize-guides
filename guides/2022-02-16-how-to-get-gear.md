@@ -3,7 +3,7 @@ title: How To Get Gear
 image: me confused
 description: Learn about common and uncommon sources to gear your builds.
 author: Jarn.1762
-date: 2022-02-16T19:35:07.949Z
+date: 2022-02-16T19:52:14.201Z
 ---
 
 # Gearing up for the endgame
@@ -26,4 +26,14 @@ Legendary items offer the same stats as Ascended Items. They also have the neces
 
 ## Not all stat combinations are equal
 
-Guild Wars 2 offers many different [Stat Combinations](https://wiki.guildwars2.com/wiki/Attribute_combinations), of which only a few are used for pve builds. 
+Guild Wars 2 offers many different [Stat Combinations](https://wiki.guildwars2.com/wiki/Attribute_combinations), of which only a few are used for pve builds. The stat combinations commonly used are:
+
+| Name            | Stats  | Commentary |
+| --------------- | -------| ---------------------------------------------- |
+| Assassin        | Ferocity Precision Power  | to adjust power build for [Internal Link](/crit-cap) |
+| Berserker       | Ferocity Precision Power  | |
+| Celestial       | Cell 4 | |
+| Diviner         | Cell 4 |
+| Seraph          | Cell 4 |
+| Sinister        | Cell 4 |
+| Viper           | Cell 4 |
